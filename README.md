@@ -10,3 +10,8 @@ Bonus:
 1. Implement another function that allows deletion.
 2. Turn this to a commandline software that asks for prompts when running.
 3. Supports some kind of autocomplete where I type `my/` and it suggests `my/only` as a possible option.
+
+
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/74915909/232293904-c18c8f3a-3cf4-46c7-9a09-18366ee58c68.png)
